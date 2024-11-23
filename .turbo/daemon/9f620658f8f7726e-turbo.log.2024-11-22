@@ -1,0 +1,20 @@
+2024-11-22T05:35:44.790787Z  WARN daemon_server:listen_socket{pid_path=AbsoluteSystemPath("C:\\Users\\MR2420~1.P\\AppData\\Local\\Temp\\turbod\\9f620658f8f7726e\\turbod.pid") sock_path=AbsoluteSystemPath("C:\\Users\\MR2420~1.P\\AppData\\Local\\Temp\\turbod\\9f620658f8f7726e\\turbod.sock") running=true}: pidlock: stale pid file at "C:\\Users\\MR2420~1.P\\AppData\\Local\\Temp\\turbod\\9f620658f8f7726e\\turbod.pid"    
+2024-11-22T05:35:44.887863Z  WARN daemon_server: turborepo_lib::commands::daemon: daemon already running
+2024-11-22T05:35:44.985502Z  WARN daemon_server: turborepo_lib::commands::daemon: daemon already running
+2024-11-22T05:40:24.364755Z  WARN daemon_server: turborepo_lib::commands::daemon: daemon already running
+2024-11-22T05:40:24.457790Z  WARN daemon_server: turborepo_lib::commands::daemon: daemon already running
+2024-11-22T05:42:36.423220Z  WARN daemon_server: turborepo_lib::commands::daemon: daemon already running
+2024-11-22T05:42:36.531893Z  WARN daemon_server: turborepo_lib::commands::daemon: daemon already running
+2024-11-22T05:42:36.622853Z  WARN daemon_server: turborepo_lib::commands::daemon: daemon already running
+2024-11-22T05:49:38.796114Z  WARN daemon_server: turborepo_lib::commands::daemon: daemon already running
+2024-11-22T05:49:38.894808Z  WARN daemon_server: turborepo_lib::commands::daemon: daemon already running
+2024-11-22T05:49:38.983123Z  WARN daemon_server: turborepo_lib::commands::daemon: daemon already running
+2024-11-22T06:17:26.429625Z  WARN daemon_server: turborepo_lib::commands::daemon: daemon already running
+2024-11-22T06:17:26.520294Z  WARN daemon_server: turborepo_lib::commands::daemon: daemon already running
+2024-11-22T06:17:26.614027Z  WARN daemon_server: turborepo_lib::commands::daemon: daemon already running
+2024-11-22T06:20:03.202988Z  WARN daemon_server: turborepo_lib::commands::daemon: daemon already running
+2024-11-22T06:20:03.299332Z  WARN daemon_server: turborepo_lib::commands::daemon: daemon already running
+2024-11-22T06:20:03.393346Z  WARN daemon_server: turborepo_lib::commands::daemon: daemon already running
+2024-11-22T06:20:49.261184Z  WARN daemon_server: turborepo_lib::commands::daemon: daemon already running
+2024-11-22T06:20:49.367312Z  WARN daemon_server: turborepo_lib::commands::daemon: daemon already running
+2024-11-22T06:20:49.473055Z  WARN daemon_server: turborepo_lib::commands::daemon: daemon already running
